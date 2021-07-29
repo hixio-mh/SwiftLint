@@ -2,4 +2,4 @@ source 'https://rubygems.org'
 
 gem 'cocoapods'
 gem 'danger'
-gem 'jazzy'
+gem 'jazzy', '>= 0.13.2'
